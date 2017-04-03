@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FilesAndFolders/obj/Debug
+/FilesAndFolders/bin/Debug
+/LinqToXml/obj/Debug
+/Reflection/bin/Debug
+/Reflection/obj/Debug
+/Reflection/Reflection.csproj.user
+/.vs/Lab07_Tasks/v14/.suo
+/FilesAndFolders/FilesAndFolders.csproj.user
+/LinqToXml/bin/Debug
